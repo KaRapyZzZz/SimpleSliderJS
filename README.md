@@ -2,3 +2,5 @@
 educational 
 
 Slider in JS and CSS
+
+Complexity: ●○○○○
